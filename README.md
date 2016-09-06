@@ -8,7 +8,7 @@
  and we gain insight into how you complete common tasks you will
  face as a member of the Advizr team.
  
- ####The challenge
+####The challenge
  
  This challenge should be able to be completed in 1-3 hours, but
  we'll give you as much time as you need to complete it. At the
@@ -18,9 +18,9 @@
  
  This challenge consists of three parts:
  
- 1. Interfacing with a REST API.
- 1. Manipulating data received from a server
- 1. Building a view for your data
+1. Interfacing with a REST API.
+1. Manipulating data received from a server
+1. Building a view for your data
  
  By doing these three things, we will be able to determine your 
  fit with the Advizr team by evaluating code completeness and the
@@ -33,7 +33,7 @@
  to delete one of the advisors by calling the same endpoint
  with the `DELETE` verb.
  
- ####Extra credit
+####Extra credit
  
  We always love seeing what candidates can do! If you're a CSS
  ninja, please show us! Adding any additional features you think
@@ -69,6 +69,6 @@
    brief summary either attached to your project or sent with
    it in an email.
    
- #### <a name="resources"></a> Resources
+#### <a name="resources"></a> Resources
  
  
