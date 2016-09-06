@@ -37,8 +37,9 @@ with the `DELETE` verb.
  
 We always love seeing what candidates can do! If you're a CSS
 ninja, please show us! Adding any additional features you think
-would help demonstrate your abilities, please feel free.  In
-particular, these areas are of interest to us:
+would help demonstrate your abilities is always welcome, 
+so please feel free.  In particular, these areas are of interest
+to us:
  
  **Design chops**
    
