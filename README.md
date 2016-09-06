@@ -71,4 +71,7 @@ particular, these areas are of interest to us:
    
 ###<a name="resources"></a> Resources
  
- 
+ 1. **Advisor data endpoint** : https://advizr-fe-coding-challenge.herokuapp.com/viewData
+ 1. **[Json-server info for Advizr](https://advizr-fe-coding-challenge.herokuapp.com/)** 
+ 1. **[jQuery](https://code.jquery.com/jquery-3.1.0.slim.min.js)**
+    
