@@ -1,5 +1,5 @@
 ![Advizr](img/logo-hires-color.png?raw=true)
-### Front End Coding Challenge 
+###Front End Coding Challenge 
 
  Thank you for your interest in a front end development position 
  at Advizr!  We like to get a sense for our candidates capabilities
@@ -8,7 +8,7 @@
  and we gain insight into how you complete common tasks you will
  face as a member of the Advizr team.
  
- #### The challenge
+ ####The challenge
  This challenge should be able to be completed in 1-3 hours, but
  we'll give you as much time as you need to complete it. At the
  end of this page, you'll see a section marked **[Resources](#resources)**
@@ -32,7 +32,7 @@
  to delete one of the advisors by calling the same endpoint
  with the `DELETE` verb.
  
- #### Extra credit
+ ####Extra credit
  
  We always love seeing what candidates can do! If you're a CSS
  ninja, please show us! Adding any additional features you think
