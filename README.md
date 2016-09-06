@@ -9,6 +9,7 @@
  face as a member of the Advizr team.
  
  ####The challenge
+ 
  This challenge should be able to be completed in 1-3 hours, but
  we'll give you as much time as you need to complete it. At the
  end of this page, you'll see a section marked **[Resources](#resources)**
