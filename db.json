@@ -2,7 +2,7 @@
   "viewData": {
     "Advisors": [
       {
-        "Id": 2257,
+        "id": 2257,
         "IsActive": false,
         "IsRegistered": true,
         "FirstName": "Adviser",
@@ -13,7 +13,7 @@
         "ExcludeFromMetrics": false
       },
       {
-        "Id": 8562,
+        "id": 8562,
         "IsActive": true,
         "IsRegistered": true,
         "FirstName": "Support",
@@ -24,7 +24,7 @@
         "ExcludeFromMetrics": false
       },
       {
-        "Id": 893,
+        "id": 893,
         "IsActive": true,
         "IsRegistered": true,
         "FirstName": "Hightower",
@@ -35,7 +35,7 @@
         "ExcludeFromMetrics": false
       },
       {
-        "Id": 7709,
+        "id": 7709,
         "IsActive": true,
         "IsRegistered": false,
         "FirstName": "test_blackdiamond",
@@ -46,7 +46,7 @@
         "ExcludeFromMetrics": false
       },
       {
-        "Id": 3593,
+        "id": 3593,
         "IsActive": true,
         "IsRegistered": true,
         "FirstName": "simple",
@@ -57,7 +57,7 @@
         "ExcludeFromMetrics": false
       },
       {
-        "Id": 1597,
+        "id": 1597,
         "IsActive": true,
         "IsRegistered": true,
         "FirstName": "QA",
@@ -68,7 +68,7 @@
         "ExcludeFromMetrics": false
       },
       {
-        "Id": 3160,
+        "id": 3160,
         "IsActive": true,
         "IsRegistered": true,
         "FirstName": "QYP",
@@ -79,7 +79,7 @@
         "ExcludeFromMetrics": false
       },
       {
-        "Id": 7684,
+        "id": 7684,
         "IsActive": true,
         "IsRegistered": true,
         "FirstName": "Jeff",
@@ -91,7 +91,7 @@
         "ExcludeFromMetrics": false
       },
       {
-        "Id": 7686,
+        "id": 7686,
         "IsActive": true,
         "IsRegistered": true,
         "FirstName": "Tester",
@@ -103,7 +103,7 @@
         "ExcludeFromMetrics": false
       },
       {
-        "Id": 7688,
+        "id": 7688,
         "IsActive": true,
         "IsRegistered": true,
         "FirstName": "Tootsy",
@@ -117,49 +117,49 @@
     ],
     "OrganizationOptions": [
       {
-        "Id": 9,
+        "id": 9,
         "Name": "Advizr"
       },
       {
-        "Id": 1425,
+        "id": 1425,
         "Name": "Lacuna, Inc"
       },
       {
-        "Id": 1410,
+        "id": 1410,
         "Name": "Paper Street Soap Company"
       },
       {
-        "Id": 1474,
+        "id": 1474,
         "Name": "Veridian Dynamics"
       },
       {
-        "Id": 1450,
+        "id": 1450,
         "Name": "Dunder Mifflin"
       }
     ],
     "SubscriptionPlanOptions": [
       {
-        "Id": "monthly-45usd-14daytrial",
+        "id": "monthly-45usd-14daytrial",
         "Name": "$45/month promotion"
       },
       {
-        "Id": "monthly-55usd-14dtrial",
+        "id": "monthly-55usd-14dtrial",
         "Name": "$55/month"
       },
       {
-        "Id": "plan1",
+        "id": "plan1",
         "Name": "Sample Plan"
       },
       {
-        "Id": "$75/month",
+        "id": "$75/month",
         "Name": "Full Retail"
       },
       {
-        "Id": "0",
+        "id": "0",
         "Name": "Free Plan"
       },
       {
-        "Id": "1",
+        "id": "1",
         "Name": "Private Beta"
       }
     ]
