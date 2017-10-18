@@ -32,7 +32,10 @@ administration section of our live website.
 
 You'll take this data to build a view, and then allow the user
 to delete one of the advisors by calling the same endpoint
-with the `DELETE` verb.
+with the `DELETE` verb. _(Note: We're not actually allowing
+you to delete from the database, so you can stub this with
+how you would implement it or just remove it from your local
+store.)_
  
 ### Extra credit
  
